@@ -24,7 +24,7 @@ O arquivo PDF será gerado automaticamente na mesma pasta com a nomenclatura:
 
 Licitacao_DD-MM-AAAA_HH-MM-SS.pdf.
 
-📌 Estrutura do Documento Gerado
+-- Estrutura do Documento Gerado --
 O PDF gerado contém a seguinte estrutura visual:
 
 Cabeçalho: IFCIENCIA PODCAST - PVA.
